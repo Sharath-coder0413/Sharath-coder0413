@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+Hello World, I am Sharath Patil, from Presidency University, Bengaluru, Karnataka! Very much professinal in coding feild
+
+
+
 <!--
 **Sharath-coder0413/Sharath-coder0413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
